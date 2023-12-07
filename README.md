@@ -1,5 +1,5 @@
 # assignment
-Assignment1
+Assignment1-Group3
 
 Student 1 : Nisanur Manap / manapn
 Student 2 : Emriye Kaya  / Emriyek57 -Ogrenci1 
